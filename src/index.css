@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.news-item {
+  & b {
+    @apply bg-red-50 rounded-md;
+    padding-inline: 0.125rem;
+  }
+}
