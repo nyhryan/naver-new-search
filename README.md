@@ -1,8 +1,10 @@
 # 네이버 뉴스 키워드 검색
 
-키워드로 검색하여 관련된 뉴스를 봅니다.
+<img src="https://github.com/user-attachments/assets/77f8500f-a114-421b-ba8b-9d422ec2f440" width="400" />
 
 React와 tailwindcss로 작성한 간단한 애플리케이션입니다.
+
+키워드로 검색하여 관련된 뉴스를 봅니다.
 
 ## 개발 방법
 
